@@ -2,7 +2,7 @@
 #支持私库
 justsong/one-api:latest
 yidadaa/chatgpt-next-web
-node:20
+node:latest
 ubuntu:20.04
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
