@@ -4,5 +4,5 @@ justsong/one-api:latest
 yidadaa/chatgpt-next-web
 node:latest
 ubuntu:20.04
-savatar101/omniparse
+savatar101/omniparse:0.1
 
