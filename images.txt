@@ -4,6 +4,6 @@ justsong/one-api:latest
 yidadaa/chatgpt-next-web
 node:latest
 ubuntu:20.04
-omniparse:0.1
+savatar101/omniparse:0.1
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
