@@ -2,4 +2,4 @@
 #支持私库
 
 continuumio/miniconda3
-qwenllm/qwen-omni
+qwenllm/qwen-omni:2.5-cu121
